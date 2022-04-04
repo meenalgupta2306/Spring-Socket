@@ -12,7 +12,7 @@ friend’s sharing, chat with them and get informed about other’s activity.
 * Eclipse IDE
 * Oracle Java Development Kit
 
-#Preparing Environment
+# Preparing Environment
 * [Install Eclipse IDE](https://www.eclipse.org/downloads/packages/installer)
 * [Install Java JDK 1.8](https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html)
 Download jdk-8u111-windows-i586.exe 
@@ -35,7 +35,7 @@ Restart command prompt otherwise it won't see the change to the path variable
 Type java -version in the command prompt. 
 
 
-#Import Project into Eclipse
+# Import Project into Eclipse
 
 * Open Eclipse IDE.
 * Click on File.
@@ -44,12 +44,12 @@ Type java -version in the command prompt.
 * Click on Finish
 
 
-#Run the Project
+# Run the Project
 * Run SocialAppApplication.java
 Use postman to check the working of api.
  
  
-#API
+# API
 * For like - localhost:8080/send-like
 * For comment - localhost:8080/send-comment 
 
